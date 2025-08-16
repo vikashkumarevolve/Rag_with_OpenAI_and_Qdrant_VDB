@@ -1,0 +1,4 @@
+OPENAI_API_KEY=""
+QDRANT_URL = ""
+QDRANT_API_KEY = ""
+COLLECTION_NAME = "medical_docs"
